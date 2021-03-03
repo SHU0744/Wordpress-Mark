@@ -3,7 +3,7 @@
     <p>静的サイトをwordpressでCMS。管理画面から更新などできるようにする。</p>
     <h2>使用言語</h2>
     <ul>
-        <li>HTML5s</li>
+        <li>HTML5</li>
         <li>CSS3(Sass)</li>
         <li>Javascript</li>
         <li>PHP</li>
